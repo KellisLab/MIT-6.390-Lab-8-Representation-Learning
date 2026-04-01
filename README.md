@@ -1,5 +1,7 @@
 # MIT 6.390: Lab 8 – Representation Learning & Visualizing Latent Spaces
 
+By Aditya Sengupta, Professor Manolis Kellis, & Professor Shen Shen
+
 Welcome to **Lab 8**! In this lab, you will dive into the core of how neural networks build internal representations of data. Rather than treating a neural network as a black box that spits out a classification, you will extract the high-dimensional activations from the penultimate layer of your model and track how these "embeddings" evolve throughout the training process. 
 
 <div align="center">
