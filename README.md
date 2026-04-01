@@ -8,6 +8,7 @@ Welcome to **Lab 8**! In this lab, you will dive into the core of how neural net
   <em>Tracking how the network geometrically sculpts distinct semantic concepts from a chaotic random initialization (Epoch 0) into highly structured linear space (Epoch 10).</em>
 </div>
 
+
 Finally, you will import your custom datasets into [Mantis](https://mantis.csail.mit.edu/) to visually sculpt and explore how your neural network learned to organize conceptual data in real-time.
 
 ---
