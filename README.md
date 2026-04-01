@@ -26,7 +26,7 @@ This repository contains all the materials necessary to complete the lab. It is 
 ## 📂 Repository Structure
 
 ```text
-6.390-Lab8-Representation-Learning/
+~/
 ├── notebooks/
 │   ├── part1_text_classification.ipynb          # Primary Lab: Dynamic Wikipedia article fetching
 │   ├── part1_text_classification_alt.ipynb      # Alternative: BBC News Classification dataset
