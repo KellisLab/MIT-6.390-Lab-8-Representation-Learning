@@ -1,0 +1,5 @@
+Title: Equivariant map
+
+In mathematics, equivariance is a form of symmetry for functions from one space with symmetry to another (such as symmetric spaces). A function is said to be an equivariant map when its domain and codomain are acted on by the same symmetry group, and when the function commutes with the action of the group. That is, applying a symmetry transformation and then computing the function produces the same result as computing the function and then applying the transformation.
+Equivariant maps generalize the concept of invariants, functions whose value is unchanged by a symmetry transformation of their argument. The value of an equivariant map is often (imprecisely) called an invariant.
+In statistical inference, equivariance under statistical transformations of data is an important property of various estimation methods; see invariant estimator for details. In pure mathematics, equivariance is a central object of study in equivariant topology and its subtopics equivariant cohomology and equivariant stable homotopy theory.

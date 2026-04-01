@@ -1,0 +1,8 @@
+Title: Interval (mathematics)
+
+In mathematics, a  real interval is the set of all real numbers lying between two fixed endpoints with no "gaps". Each endpoint is either a real number or positive or negative infinity, indicating the interval extends without a bound. A real interval can contain neither endpoint, either endpoint, or both endpoints, excluding any endpoint which is infinite.
+For example, the set of real numbers consisting of 0, 1, and all numbers in between is an interval, denoted [0, 1] and called the unit interval; the set of all positive real numbers is an interval, denoted (0, ∞); the set of all real numbers is an interval, denoted (−∞, ∞); and any single real number a is an interval, denoted [a, a].
+Intervals are ubiquitous in mathematical analysis. For example, they occur implicitly in the epsilon-delta definition of continuity; the intermediate value theorem asserts that the image of an interval by a continuous function is an interval; integrals of real functions are defined over an interval; etc.
+Interval arithmetic consists of computing with intervals instead of real numbers for providing a guaranteed enclosure of the result of a numerical computation, even in the presence of uncertainties of input data  and rounding errors.
+Intervals are likewise defined on an arbitrary totally ordered set, such as integers or rational numbers. The notation of integer intervals is considered in the special section below.
+

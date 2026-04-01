@@ -1,0 +1,27 @@
+Title: Transcendental number
+
+In mathematics, a transcendental number is a real or complex number that is not algebraic: that is, not the root of a non-zero polynomial with integer (or, equivalently, rational) coefficients. The best-known transcendental numbers are π and e. The quality of a number being transcendental is called transcendence.
+Though only a few classes of transcendental numbers are known (partly because it can be extremely difficult to show that a given number is transcendental) transcendental numbers are not rare: indeed, almost all real and complex numbers are transcendental, since the algebraic numbers form a countable set, while the set of real numbers ⁠
+  
+    
+      
+        
+          R
+        
+      
+    
+    {\displaystyle \mathbb {R} }
+  
+⁠ and the set of complex numbers ⁠
+  
+    
+      
+        
+          C
+        
+      
+    
+    {\displaystyle \mathbb {C} }
+  
+⁠ are both uncountable sets, and therefore larger than any countable set.
+All transcendental real numbers (also known as real transcendental numbers or transcendental irrational numbers) are irrational numbers, since all rational numbers are algebraic. The converse is not true: Not all irrational numbers are transcendental. Hence, the set of real numbers consists of non-overlapping sets of rational, algebraic irrational, and transcendental real numbers. For example, the square root of 2 is an irrational number, but it is not a transcendental number as it is a root of the polynomial equation x2 − 2 = 0.

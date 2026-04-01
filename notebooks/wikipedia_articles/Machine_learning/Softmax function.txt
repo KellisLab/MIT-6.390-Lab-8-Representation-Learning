@@ -1,0 +1,3 @@
+Title: Softmax function
+
+The softmax function, also known as softargmax or normalized exponential function, converts a tuple of K real numbers into a probability distribution over K possible outcomes. It is a generalization of the logistic function to multiple dimensions, and is used in multinomial logistic regression. The softmax function is often used as the last activation function of a neural network to normalize the output of a network to a probability distribution over predicted output classes.

@@ -1,0 +1,92 @@
+Title: Rectified linear unit
+
+In the context of artificial neural networks, the rectifier or ReLU (rectified linear unit) activation function is an activation function defined as the non-negative part of its argument, i.e., the ramp function:
+
+  
+    
+      
+        ReLU
+        ⁡
+        (
+        x
+        )
+        =
+        
+          x
+          
+            +
+          
+        
+        =
+        max
+        (
+        0
+        ,
+        x
+        )
+        =
+        
+          
+            
+              x
+              +
+              
+                |
+              
+              x
+              
+                |
+              
+            
+            2
+          
+        
+        =
+        
+          
+            {
+            
+              
+                
+                  x
+                
+                
+                  
+                    if 
+                  
+                  x
+                  >
+                  0
+                  ,
+                
+              
+              
+                
+                  0
+                
+                
+                  x
+                  ≤
+                  0
+                
+              
+            
+            
+          
+        
+      
+    
+    {\displaystyle \operatorname {ReLU} (x)=x^{+}=\max(0,x)={\frac {x+|x|}{2}}={\begin{cases}x&{\text{if }}x>0,\\0&x\leq 0\end{cases}}}
+  
+
+where 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+  
+ is the input to a neuron. This is analogous to half-wave rectification in electrical engineering.
+ReLU is one of the most popular activation functions for artificial neural networks, and finds application in computer vision and speech recognition using deep neural nets and computational neuroscience.

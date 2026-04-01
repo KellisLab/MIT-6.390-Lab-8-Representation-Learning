@@ -1,0 +1,3 @@
+Title: Tate conjecture
+
+In number theory and algebraic geometry, the Tate conjecture is a 1963 conjecture of John Tate that would describe the algebraic cycles on a variety in terms of a more computable invariant, the Galois representation on étale cohomology. The conjecture is a central problem in the theory of algebraic cycles. It can be considered an arithmetic analog of the Hodge conjecture.

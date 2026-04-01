@@ -1,0 +1,5 @@
+Title: The Emperor's New Mind
+
+The Emperor's New Mind: Concerning Computers, Minds and The Laws of Physics is a 1989 book by the mathematical physicist Roger Penrose.
+Penrose argues that human consciousness is non-algorithmic, and thus is not capable of being modeled by a conventional Turing machine, which includes a digital computer. Penrose hypothesizes that quantum mechanics plays an essential role in the understanding of human consciousness. The collapse of the quantum wavefunction is seen as playing an important role in brain function.
+Most of the book is spent reviewing, for the scientifically-minded lay-reader, a plethora of interrelated subjects such as Newtonian physics, special and general relativity, the philosophy and limitations of mathematics, quantum physics, cosmology, and the nature of time. Penrose intermittently describes how each of these bears on his developing theme: that consciousness is not "algorithmic". Only the later portions of the book address the thesis directly.

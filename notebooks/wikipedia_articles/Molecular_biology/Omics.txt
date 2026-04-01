@@ -1,0 +1,6 @@
+Title: Omics
+
+Omics is the collective characterization and quantification of entire sets of biological molecules and the investigation of how they translate into the structure, function, and dynamics of an organism or group of organisms. The branches of science known informally as omics are various disciplines in biology whose names end in the suffix -omics, such as genomics, proteomics, metabolomics, metagenomics, phenomics and transcriptomics. 
+The related suffix -ome is used to address the objects of study of such fields, such as the genome, proteome or metabolome respectively. The suffix -ome as used in molecular biology refers to a totality of some sort; it is an example of a "neo-suffix" formed by abstraction from various Greek terms in  -ωμα, a sequence that does not form an identifiable suffix in Greek.
+Functional genomics aims at identifying the functions of as many genes as possible of a given organism. It combines
+different -omics techniques such as transcriptomics and proteomics with saturated mutant collections.

@@ -1,0 +1,4 @@
+Title: Feedforward neural network
+
+A feedforward neural network is an artificial neural network in which information flows in a single direction – inputs are multiplied by weights to obtain outputs (inputs-to-output). It contrasts with a recurrent neural network, in which loops allow information from later processing stages to feed back to earlier stages. Feedforward multiplication is essential for backpropagation, because feedback, where the outputs feed back to the very same inputs and modify them, forms an infinite loop which is not possible to differentiate through backpropagation. This nomenclature appears to be a point of confusion between some computer scientists and scientists in other fields studying brain networks.
+

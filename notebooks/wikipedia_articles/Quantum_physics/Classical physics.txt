@@ -1,0 +1,4 @@
+Title: Classical physics
+
+Classical physics consists of scientific theories in the field of physics that are non-quantum or both non-quantum and non-relativistic, depending on the context. In historical discussions, classical physics refers to pre-1900 physics, while modern physics refers to post-1900 physics, which incorporates elements of quantum mechanics and the theory of relativity. However, relativity is based on classical field theory rather than quantum field theory, and is often categorized as a part of "classical physics".
+

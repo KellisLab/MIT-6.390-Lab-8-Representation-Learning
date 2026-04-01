@@ -1,0 +1,3 @@
+Title: Closed system
+
+A closed system is a natural physical system that does not allow transfer of matter in or out of the system, although the transfer of energy is allowed in the contexts of certain fields (e.g. physics, chemistry, engineering, etc).

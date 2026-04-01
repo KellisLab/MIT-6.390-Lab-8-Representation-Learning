@@ -1,0 +1,82 @@
+Title: Ramanujan–Petersson conjecture
+
+In mathematics, the Ramanujan-Petersson conjecture is a conjecture concerning the growth rate of coefficients of modular forms and more generally, automorphic forms. The name of the conjecture comes from Srinivasa Ramanujan, who proposed it for Ramanujan tau function, and Hans Petersson, who generalized it for coefficients of modular forms.
+In the version for modular forms, the conjecture says that for any cusp form of weight 
+  
+    
+      
+        k
+      
+    
+    {\displaystyle k}
+  
+ with Fourier coefficients 
+  
+    
+      
+        
+          a
+          
+            n
+          
+        
+      
+    
+    {\displaystyle a_{n}}
+  
+ and every 
+  
+    
+      
+        ϵ
+        >
+        0
+      
+    
+    {\displaystyle \epsilon >0}
+  
+ that
+
+  
+    
+      
+        
+          a
+          
+            n
+          
+        
+        =
+        
+          O
+          
+            ϵ
+          
+        
+        
+          (
+          
+            n
+            
+              (
+              k
+              −
+              1
+              )
+              
+                /
+              
+              2
+              +
+              ϵ
+            
+          
+          )
+        
+      
+    
+    {\displaystyle a_{n}=O_{\epsilon }\left(n^{(k-1)/2+\epsilon }\right)}
+  
+
+The generalization for automorphic forms is more sophisticated due to counterexamples found for many of the simplest propositions. Its current form was proposed by Howe and Piatetski-Shapiro, and states that for a globally generic cuspidal automorphic representation of a connected reductive group that admits a Whittaker model, each local component of the representation is tempered.
+For modular forms, the conjecture was proven following the extensive work of Erich Hecke, Michio Kuga and Pierre Deligne. Despite many similarities between modular forms and Maass forms, the conjecture's counterpart for Maass forms is still an open problem, as the Deligne method which solves the holomorphic case does not work in the real-analytic case of Maass forms. The generalization of the conjecture for automorphic forms also remains an open problem.

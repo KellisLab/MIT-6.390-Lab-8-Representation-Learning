@@ -1,0 +1,4 @@
+Title: Algebraic quantum field theory
+
+Algebraic quantum field theory (AQFT) is an application to local quantum physics of C*-algebra theory. Also referred to as the Haag–Kastler axiomatic framework for quantum field theory, because it was introduced by Rudolf Haag and Daniel Kastler (1964). The axioms are stated in terms of an algebra given for every open set in Minkowski space, and mappings between those.
+

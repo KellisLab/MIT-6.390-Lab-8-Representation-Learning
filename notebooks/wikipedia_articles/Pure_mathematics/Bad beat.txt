@@ -1,0 +1,4 @@
+Title: Bad beat
+
+In poker, bad beat is a subjective term for a hand in which a player with what appear to be strong cards nevertheless loses. It most often occurs where one player bets the clearly stronger hand and their opponent makes a mathematically poor call that wins with any subsequent dealing to complete the hand.
+In pure mathematical terms a one-outer can be considered a pure bad beat; however; there is no consensus among poker players as to what else exactly constitutes a bad beat and often players will disagree about whether a particular hand was a bad beat.  A few examples are  quads over full house, quads over quads, straight flush over quads, and small full house vs. bigger full house or better.

@@ -1,0 +1,3 @@
+Title: Dependent and independent variables
+
+A variable is considered dependent if it depends on (or is hypothesized to depend on) an independent variable. Dependent variables are the outcome of the  test they depend, by some law or rule (e.g., by a mathematical function), on. Independent variables, on the other hand, are not seen as depending on any other variable in the scope of the experiment in question. Rather, they are controlled by the experimenter.

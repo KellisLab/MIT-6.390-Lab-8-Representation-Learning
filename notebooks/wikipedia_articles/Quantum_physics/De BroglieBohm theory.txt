@@ -1,0 +1,7 @@
+Title: De Broglie–Bohm theory
+
+The de Broglie–Bohm theory is an interpretation of quantum mechanics which postulates that, in addition to the wavefunction, an actual configuration of particles exists, even when unobserved. The evolution over time of the configuration of all particles is defined by a guiding equation. The evolution of the wave function over time is given by the Schrödinger equation. The theory is named after Louis de Broglie and David Bohm.
+The theory is deterministic and explicitly nonlocal: the velocity of any one particle depends on the value of the guiding equation, which depends on the configuration of all the particles under consideration.
+Measurements are a particular case of quantum processes described by the theory—for which it yields the same quantum predictions as other interpretations of quantum mechanics. The theory does not have a "measurement problem", due to the fact that the particles have a definite configuration at all times. The Born rule in de Broglie–Bohm theory is not a postulate. Rather, in this theory, the link between the probability density and the wave function has the status of a theorem, a result of a separate postulate, the "quantum equilibrium hypothesis", which is additional to the basic principles governing the wave function.
+There are several equivalent mathematical formulations of the theory.
+

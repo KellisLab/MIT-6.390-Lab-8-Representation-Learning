@@ -1,0 +1,22 @@
+Title: Wigner's friend
+
+Wigner's friend is a thought experiment in theoretical quantum physics, first published by the Hungarian-American physicist Eugene Wigner in 1961, and further developed by David Deutsch in 1985. The scenario involves an indirect observation of a quantum measurement: An observer 
+  
+    
+      
+        W
+      
+    
+    {\displaystyle W}
+  
+ observes another observer 
+  
+    
+      
+        F
+      
+    
+    {\displaystyle F}
+  
+ who performs a quantum measurement on a physical system. The two observers then formulate a statement about the physical system's state after the measurement according to the laws of quantum theory. In the Copenhagen interpretation, the resulting statements of the two observers contradict each other. This reflects a seeming incompatibility of two laws in the Copenhagen interpretation: the deterministic and continuous time evolution of the state of a closed system and the nondeterministic, discontinuous collapse of the state of a system upon measurement. Wigner's friend is therefore directly linked to the measurement problem in quantum mechanics with its famous Schrödinger's cat paradox.
+Generalizations and extensions of Wigner's friend have been proposed. Two such scenarios involving multiple friends have been implemented in a laboratory, using photons to stand in for the friends. However, the use of photons as observers has been criticized by quantum physicist Lev Vaidman of Tel Aviv University as "ridiculous; the friend has to be macroscopic". Philosopher of physics Tim Maudlin of New York University says that "Nobody thinks a photon is an observer".

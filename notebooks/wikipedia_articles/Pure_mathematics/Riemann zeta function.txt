@@ -1,0 +1,97 @@
+Title: Riemann zeta function
+
+The Riemann zeta function or Euler–Riemann zeta function, denoted by the lowercase Greek letter ζ (zeta), is a mathematical function of a complex variable defined as 
+  
+    
+      
+        ζ
+        (
+        s
+        )
+        =
+        
+          ∑
+          
+            n
+            =
+            1
+          
+          
+            ∞
+          
+        
+        
+          
+            1
+            
+              n
+              
+                s
+              
+            
+          
+        
+        =
+        
+          
+            1
+            
+              1
+              
+                s
+              
+            
+          
+        
+        +
+        
+          
+            1
+            
+              2
+              
+                s
+              
+            
+          
+        
+        +
+        
+          
+            1
+            
+              3
+              
+                s
+              
+            
+          
+        
+        +
+        ⋯
+      
+    
+    {\displaystyle \zeta (s)=\sum _{n=1}^{\infty }{\frac {1}{n^{s}}}={\frac {1}{1^{s}}}+{\frac {1}{2^{s}}}+{\frac {1}{3^{s}}}+\cdots }
+  
+ for 
+  
+    
+      
+        
+          R
+          e
+        
+        (
+        s
+        )
+        >
+        1
+      
+    
+    {\displaystyle \mathrm {Re} (s)>1}
+  
+, and its analytic continuation elsewhere.
+The Riemann zeta function plays a pivotal role in analytic number theory and has applications in physics, probability theory, and applied statistics.
+Leonhard Euler first introduced and studied the function over the reals in the first half of the eighteenth century. Bernhard Riemann's 1859 article "On the Number of Primes Less Than a Given Magnitude" extended the Euler definition to a complex variable, proved its meromorphic continuation and functional equation, and established a relation between its zeros and the distribution of prime numbers.  This paper also contained the Riemann hypothesis, a conjecture about the distribution of complex zeros of the Riemann zeta function that many mathematicians consider the most important unsolved problem in pure mathematics.
+The values of the Riemann zeta function at even positive integers were computed by Euler. The first of them, ζ(2), provides a solution to the Basel problem. In 1979, Roger Apéry proved the irrationality of ζ(3), and got the number named after him. The values at negative integer points, also found by Euler, are rational numbers and play an important role in the theory of modular forms. Many generalizations of the Riemann zeta function, such as Dirichlet series, Dirichlet L-functions and L-functions, are known.
+

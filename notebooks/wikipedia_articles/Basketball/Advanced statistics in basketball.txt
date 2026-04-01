@@ -1,0 +1,4 @@
+Title: Advanced statistics in basketball
+
+Advanced statistics, also known as analytics or APBRmetrics, in basketball refers to the analysis of basketball statistics using objective evidence. APBRmetrics takes its name from the acronym APBR, which stands for the Association for Professional Basketball Research. According to The Sporting News, the APBRmetrics message board was "the birthplace of basketball analytics".
+Advanced basketball statistics include effective field goal percentage (eFG%), true shooting percentage (TS%), on-court/off-court plus–minus, adjusted plus-minus (APM), real plus/minus (RPM), player efficiency rating (PER), offense efficiency rating, offensive rating, defensive rating, similarity score, tendex, and player tracking. A more complete explanation of basketball analytics is available in "A Starting Point for Analyzing Basketball Statistics" in the Journal of Quantitative Analysis in Sports.

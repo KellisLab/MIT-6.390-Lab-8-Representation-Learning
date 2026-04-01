@@ -1,0 +1,8 @@
+Title: Probability axioms
+
+The standard probability axioms are the foundations of probability theory introduced by Russian mathematician Andrey Kolmogorov in 1933. Like all axiomatic systems, they outline the basic assumptions underlying the application of probability to fields such as pure mathematics and the physical sciences, while avoiding logical paradoxes.
+The probability axioms do not specify or assume any particular interpretation of probability, but may be motivated by starting from a philosophical definition of probability and arguing that the axioms are satisfied by this definition. For example,
+
+Cox's theorem derives the laws of probability based on a "logical" definition of probability as the likelihood or credibility of arbitrary logical propositions.
+The Dutch book arguments show that rational agents must make bets which are in proportion with a subjective measure of the probability of events.
+The third axiom, σ-additivity, is relatively modern, and originates with Lebesgue's measure theory. Some authors replace this with the strictly weaker axiom of finite additivity, which is sufficient to deal with some applications.

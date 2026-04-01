@@ -1,0 +1,4 @@
+Title: Arthur Cayley
+
+Arthur Cayley  (; 16 August 1821 – 26 January 1895) was an English mathematician who worked mostly on algebra. He helped found the modern British school of pure mathematics, and was a professor at Trinity College, Cambridge for 35 years.
+He postulated what is now known as the Cayley–Hamilton theorem—that every square matrix is a root of its own characteristic polynomial, and verified it for matrices of order 2 and 3. He was the first to define the concept of an abstract group, a set with a binary operation satisfying certain laws, as opposed to Évariste Galois' concept of permutation groups. In group theory, Cayley tables, Cayley graphs, and Cayley's theorem are named in his honour, as well as Cayley's formula in combinatorics.

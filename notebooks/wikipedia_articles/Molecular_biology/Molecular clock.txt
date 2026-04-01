@@ -1,0 +1,3 @@
+Title: Molecular clock
+
+The molecular clock  is a figurative term for a technique that uses the mutation rate of biomolecules to deduce the time in prehistory when two or more life forms diverged. The biomolecular data used for such calculations are usually nucleotide sequences for DNA, RNA, or amino acid sequences for proteins.

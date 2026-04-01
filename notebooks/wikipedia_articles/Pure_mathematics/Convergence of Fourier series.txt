@@ -1,0 +1,4 @@
+Title: Convergence of Fourier series
+
+In mathematics, the question of whether the Fourier series of a given periodic function converges to the given function is researched by a field known as classical harmonic analysis, a branch of pure mathematics. Convergence is not necessarily given in the general case, and certain criteria must be met for convergence to occur.
+Determination of convergence requires the comprehension of pointwise convergence, uniform convergence, absolute convergence, Lp spaces, summability methods and the Cesàro mean.

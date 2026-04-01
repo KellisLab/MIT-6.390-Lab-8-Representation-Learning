@@ -1,0 +1,3 @@
+Title: Magma (computer algebra system)
+
+Magma is a computer algebra system designed to solve problems in algebra, number theory, geometry and combinatorics. It is named after the algebraic structure magma. It runs on Unix-like operating systems, as well as Windows.

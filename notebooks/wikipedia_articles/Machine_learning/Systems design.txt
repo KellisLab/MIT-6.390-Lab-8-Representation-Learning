@@ -1,0 +1,5 @@
+Title: Systems design
+
+The basic study of system design is the understanding of component parts and their subsequent interaction with one another.
+Systems design has appeared in a variety of fields, including aeronautics, sustainability, computer/software architecture, and sociology.
+

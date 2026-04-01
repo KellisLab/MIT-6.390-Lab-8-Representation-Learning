@@ -1,0 +1,5 @@
+Title: Conference on Neural Information Processing Systems
+
+The Conference on Neural Information Processing Systems (abbreviated as NeurIPS and formerly NIPS)  is a machine learning and computational neuroscience conference held annually in December. Along with ICLR and ICML, it is one of the three primary conferences of high impact in machine learning and artificial intelligence research.
+The conference includes three days of invited talks along with oral and poster presentations of refereed papers, followed by two days of workshops and competitions.
+

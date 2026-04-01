@@ -1,0 +1,3 @@
+Title: Quantum field theory in curved spacetime
+
+In theoretical physics, quantum field theory in curved spacetime (QFTCS) is an extension of quantum field theory from Minkowski spacetime to a general curved spacetime. This theory uses a semi-classical approach; it treats spacetime as a fixed, classical background, while giving a quantum-mechanical description of the matter and energy propagating through that spacetime. A general prediction of this theory is that particles can be created by time-dependent gravitational fields (multigraviton pair production), or by time-independent gravitational fields that contain horizons. The most famous example of the latter is the phenomenon of Hawking radiation emitted by black holes.

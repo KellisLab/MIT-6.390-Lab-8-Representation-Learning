@@ -1,0 +1,6 @@
+Title: Stochastic differential equation
+
+A stochastic differential equation (SDE) is a differential equation in which one or more of the terms is a stochastic process, resulting in a solution which is also a stochastic process. SDEs have many applications throughout pure mathematics and are used to model various behaviours of stochastic models such as prices of listed company shares, random growth models or physical systems that are subjected to thermal fluctuations.
+SDEs have a random differential that is in the most basic case random white noise calculated as the distributional derivative of a Brownian motion or more generally a semimartingale. However, other types of random behaviour are possible, such as jump processes like Lévy processes or semimartingales with jumps. 
+Stochastic differential equations are in general neither differential equations nor random differential equations. Random differential equations are conjugate to stochastic differential equations. Stochastic differential equations can also be extended to differential manifolds.
+

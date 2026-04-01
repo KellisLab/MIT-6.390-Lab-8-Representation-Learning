@@ -1,0 +1,3 @@
+Title: TILLING (molecular biology)
+
+TILLING (Targeting Induced Local Lesions in Genomes) is a method in molecular biology that allows directed identification of mutations in a specific gene. TILLING was introduced in 2000, using the model plant Arabidopsis thaliana, and expanded on into other uses and methodologies by a small group of scientists including Luca Comai. TILLING has since been used as a reverse genetics method in other organisms such as zebrafish, maize, wheat, rice, soybean, tomato and lettuce.

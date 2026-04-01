@@ -1,0 +1,5 @@
+Title: Interpretations of quantum mechanics
+
+An interpretation of quantum mechanics is an attempt to explain how the mathematical theory of quantum mechanics might correspond to experienced reality. Quantum mechanics has held up to rigorous and extremely precise tests in an extraordinarily broad range of experiments. However, there exist a number of contending schools of thought over their interpretation. These views on interpretation differ on such fundamental questions as whether quantum mechanics is deterministic or stochastic, local or non-local, which elements of quantum mechanics can be considered real, and what the nature of measurement is, among other matters.
+While some variation of the Copenhagen interpretation is commonly presented in textbooks, many other interpretations have been developed.
+Despite a century of debate and experiment, no consensus has been reached among physicists and philosophers of physics concerning which interpretation best "represents" reality.

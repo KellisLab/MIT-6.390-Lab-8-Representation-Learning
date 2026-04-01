@@ -1,0 +1,4 @@
+Title: Computational economics
+
+Computational or algorithmic economics is an interdisciplinary field combining computer science and economics to efficiently solve computationally-expensive problems in economics. Some of these areas are unique, while others established areas of economics by allowing robust data analytics and solutions of problems that would be arduous to research without computers and associated numerical methods.
+Major advances in computational economics include search and matching theory, game theory, the theory of linear programming, algorithmic mechanism design, and fair division algorithms.

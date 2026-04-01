@@ -1,0 +1,5 @@
+Title: Political methodology
+
+Political methodology is a subfield of political science that studies the quantitative and qualitative methods used to study politics and draw conclusions using data. Quantitative methods combine statistics, mathematics, and formal theory. Political methodology is often used for positive research, in contrast to normative research. Psephology, a skill or technique within political methodology, is the "quantitative analysis of elections and balloting".
+Objective political research heavily relies on political methodology as it provides rigorous methods for analysis. Quantitative methods, including statistical analysis, can allow researchers to investigate large datasets and identify patterns or trends, such as to predict election outcomes. Oppositely, qualitative methods deal with deep analysis of smaller sets of data such as interviews, documents, and case studies. This methods of analysis are more specifically useful when it comes to analyzing complicated social phenomena and political behavior. By combining these two types of methods, researchers can get a more comprehensive understanding of political processes and outcomes.
+

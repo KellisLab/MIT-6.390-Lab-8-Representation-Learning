@@ -1,0 +1,3 @@
+Title: Molecular evolution
+
+Molecular evolution describes how inherited DNA and/or RNA change over evolutionary time, and the consequences of this for proteins and other components of cells and organisms. Molecular evolution is the basis of phylogenetic approaches to describing the tree of life. Molecular evolution overlaps with population genetics, especially on shorter timescales. Topics in molecular evolution include the origins of new genes, the genetic nature of complex traits, the genetic basis of adaptation and speciation, the evolution of development, and patterns and processes underlying genomic changes during evolution.
