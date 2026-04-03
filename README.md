@@ -1,4 +1,4 @@
-# MIT 6.390: Lab 8 – Representation Learning & Visualizing Latent Spaces
+# MIT 6.390 (Intro to Machine Learning): Lab 8 – Representation Learning & Visualizing Latent Spaces
 
 By Aditya Sengupta, Professor Manolis Kellis, & Professor Shen Shen
 
