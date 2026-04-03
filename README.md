@@ -2,7 +2,7 @@
 
 By Aditya Sengupta, Professor Manolis Kellis, & Professor Shen Shen
 
-Welcome to **Lab 8** of Introduction to Machine Learning! In this lab, you will dive into the core of how neural networks build internal representations of data. Rather than treating a neural network as a black box that spits out a classification, you will extract the high-dimensional activations from the penultimate layer of your model and track how these "embeddings" evolve throughout the training process. 
+Welcome to **Lab 8** of Introduction to Machine Learning! In this lab, you will dive into the core of how neural networks build internal representations of data. Rather than treating a neural network as a black box that spits out a classification, you will extract the high-dimensional activations from the penultimate layer of your model and track how these "embeddings" evolve throughout the training process.<br>
 
 <div align="center">
   <img src="worksheets/UMAP-Over-Epochs.png" alt="UMAP Concept Evolution" width="800"/>
