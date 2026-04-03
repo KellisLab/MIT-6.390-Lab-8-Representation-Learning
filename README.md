@@ -8,7 +8,7 @@ Welcome to **Lab 8**! In this lab, you will dive into the core of how neural net
   <img src="worksheets/UMAP-Over-Epochs.png" alt="UMAP Concept Evolution" width="800"/>
   <br>
   <em>Tracking how the network geometrically sculpts distinct semantic concepts from a chaotic random initialization (Epoch 0) into highly structured linear space (Epoch 10).</em>
-</div>
+</div><br>
 
 
 Finally, you will import your custom datasets into [Mantis](https://mantis.csail.mit.edu/) to visually sculpt and explore how your neural network learned to organize conceptual data in real-time.
@@ -25,7 +25,7 @@ This repository contains all the materials necessary to complete the lab. It is 
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
 ```text
 ~/
@@ -43,7 +43,7 @@ This repository contains all the materials necessary to complete the lab. It is 
 
 ---
 
-## 🚀 Phase 1: Training & Capturing Embeddings
+## Phase 1: Training & Capturing Embeddings
 
 ### Getting Started
 We recommend starting with `notebooks/part1_text_classification.ipynb`. This notebook searches the live Wikipedia API without any pip-dependency overhead, allowing you to train your network on *any topics you find interesting* (e.g., "Quantum physics", "Renaissance art"). 
@@ -60,7 +60,7 @@ The output CSV is already heavily formatted for the Mantis Visualizer platform:
 
 ---
 
-## 🌌 Phase 2: Mantis Visualization
+## Phase 2: Mantis Visualization
 
 Once you have generated your CSV, it's time to visualize what the network actually learned.
 
@@ -83,5 +83,5 @@ Once you have generated your CSV, it's time to visualize what the network actual
 
 ---
 
-## 📝 Submitting the Lab
+## Submitting the Lab
 Please refer to `Assignment-Worksheet/lab8_assignment.tex` for the theory and coding questions that accompany this module. You are expected to answer both the conceptual questions and the coding questions comparing the model architectures. Submit your compiled PDF and resulting `.csv` file to Canvas.
